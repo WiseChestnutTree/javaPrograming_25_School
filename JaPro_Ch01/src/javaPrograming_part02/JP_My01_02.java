@@ -1,6 +1,6 @@
 package javaPrograming_part02;
 
-import javaPrograming_part01. *;
+import javaPrograming_part01.*;
 
 public class JP_My01_02 {
 
