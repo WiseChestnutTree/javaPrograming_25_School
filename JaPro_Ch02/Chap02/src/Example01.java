@@ -2,11 +2,11 @@ public class Example01 {
    public static void main(String[] args) {   
      final int SPEED = 20; 
      int count = 10;
-     SPEED = 40;           
+//     SPEED = 40;           
      count = 11;
-     System.out.print("»ó¼ö SPEED °ªÀº  ");  
+     System.out.print("ï¿½ï¿½ï¿½ SPEED ï¿½ï¿½ï¿½ï¿½  ");  
      System.out.println(SPEED); 
-     System.out.print("º¯¼ö count °ªÀº  "); 
+     System.out.print("ï¿½ï¿½ï¿½ï¿½ count ï¿½ï¿½ï¿½ï¿½  "); 
      System.out.println(count);
    }
 }
