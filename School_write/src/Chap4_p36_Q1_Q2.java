@@ -35,18 +35,22 @@ public class Chap4_p36_Q1_Q2 {
 				case 0:
 					System.out.print(s[i]+" 입력-> ");
 					a[i] = s1.next();
+					break;
 				case 1:
 					System.out.print(s[i]+" 입력-> ");
 					a[i] = s1.next();
+					break;	
 				case 2:
 					System.out.print(s[i]+" 입력-> ");
 					a[i] = s1.next();
+					break;
 			}
 		}
 		System.out.println();
 		System.out.println(s[0]+": "+a[0]);
 		System.out.println(s[1]+": "+a[1]);
 		System.out.println(s[2]+": "+a[2]);
+		System.out.println();
 //		https://github.com/WiseChestnutTree/javaPrograming_25_School.git
 	}
 	
@@ -75,10 +79,13 @@ public class Chap4_p36_Q1_Q2 {
 	
 	public static void main(String[] args) {
 		Chap4_p36_Q1_Q2 ex = new Chap4_p36_Q1_Q2();
+		
+		System.out.println("Q1 반복문 응용");
 		ex.ex1_for();
+		System.out.println("Q1 switch문 응용");
 		ex.ex1_switch();
 		
-		System.out.println();
+		System.out.println("Q2 해결");
 		ex.ex2();
 		
 	}
