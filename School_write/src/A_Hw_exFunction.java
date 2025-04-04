@@ -42,6 +42,7 @@ public class A_Hw_exFunction {
 		
 //		감상문을 출력
 //		A: text 만 저장하면 됨 -> 문자열 데이터를 변수로 가져야 함.
+		
 	}
 
 }
